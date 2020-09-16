@@ -9,4 +9,4 @@
 >   * examine the variation between the humans
 >   * snp's that get inherited togheter 
 
-> #### EBI
+> #### Human Genome Poject
